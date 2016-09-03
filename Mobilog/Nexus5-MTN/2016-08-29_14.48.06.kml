@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document><name>2016-08-29_14.48.06</name>
+<Style id="spot_green_normal"><IconStyle><scale>0.6</scale><color>ff00ff00</color></IconStyle><LabelStyle><scale>0</scale></LabelStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></Style>
+<Style id="spot_green_highlight"><IconStyle><scale>0.6</scale><color>ff00ff00</color></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></Style>
+<StyleMap id="spot_green"><Pair><key>normal</key><styleUrl>spot_green_normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>spot_green_highlight</styleUrl></Pair></StyleMap>
+<Style id="spot_yellow_normal"><IconStyle><scale>0.8</scale><color>ff00ffff</color></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></Style>
+<Style id="spot_yellow_highlight"><IconStyle><scale>0.8</scale><color>ff00ffff</color></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></Style>
+<StyleMap id="spot_yellow"><Pair><key>normal</key><styleUrl>spot_yellow_normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>spot_yellow_highlight</styleUrl></Pair></StyleMap>
+<Style id="spot_red"><IconStyle><scale>0.8</scale><color>ff0000ff</color></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></Style>
+</Document></kml>
