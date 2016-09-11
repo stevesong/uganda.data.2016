@@ -5,7 +5,8 @@
 
 Data collection tools included:
 
-* Netradar (https://www.netradar.org)
+* Netradar (https://www.netradar.org) - data stored on Netradar site
 * Mobilog2 (http://www.valerio.im/others.html#mobilog)
 * Network Monitor (https://f-droid.org/repository/browse/?fdfilter=monitor&fdid=ca.rmen.android.networkmonitor)
+* Mozilla Stumbler (https://location.services.mozilla.com/)
 
